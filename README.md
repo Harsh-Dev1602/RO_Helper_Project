@@ -3,6 +3,7 @@
 RO Helper is your go-to platform for quick and easy assistance with RO (Reverse Osmosis) water purifiers. Whether you need maintenance tips, repair help, or want to book a service, RO Helper has you covered — making sure your water remains clean, safe, and healthy.
 
 🚫 Note: This project is currently private. The source code is not publicly available.
+
 🌊 Features
 📱 Mobile App Access: Easy-to-use app available for quick help anytime, anywhere.
 
@@ -19,6 +20,7 @@ RO Helper is your go-to platform for quick and easy assistance with RO (Reverse 
 🧼 Water Safety Tips: Learn how to keep your RO system and drinking water clean and safe.
 
 📱 How It Works
+
 Browse Issues: Use the app/website to select your RO purifier issue.
 
 Get Help: Follow the suggested solutions or request professional help.
